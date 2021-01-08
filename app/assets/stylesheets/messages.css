@@ -89,6 +89,14 @@
   width: 100%;
 }
 
+.name_form,
+.message_form {
+  width: 100%;
+  height: 100%;
+  padding: 15px;
+
+}
+
 .form-message {
   border: none;
   height: 50px;
